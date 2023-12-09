@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d79179e7c94587a43af23597fb9ab285, type: 3}
+  m_Name: Rocking Chair
+  m_EditorClassIdentifier: 
+  ItemName: Rocking Chair
+  ItemImage: {fileID: 21300000, guid: 50969959441d5d8438937211f30c7028, type: 3}
+  ItemDescription: Comfortable rocking chair.
+  itemPrice: 207.99
+  Item3DModel: {fileID: 8240036088630488932, guid: b695654efa8f38f4ebbcaa1fa1250812,
+    type: 3}
